@@ -1,0 +1,2 @@
+# rockiesresort
+Static site: rockiesresort
